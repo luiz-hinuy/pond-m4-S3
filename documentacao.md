@@ -161,11 +161,10 @@ void loop() {
     * `tempoAnterior = tempoAtual;`: Salva o tempo da mudança.
 
 
+## 3. Avaliação dos Pares
 
 
-
-
-Paulo Vitor
+Paulo Vitor Barros de Almeida
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | 3 - Organização exemplar|	
@@ -175,10 +174,7 @@ Paulo Vitor
 | | | | |Pontuação Total = 10|
 
 
-
-
-
-Sarah Araújo
+Sarah Araujo Duarte
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 |3 - Montagem bem organizada |	
