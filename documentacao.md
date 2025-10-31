@@ -1,3 +1,31 @@
+# Documentação do Projeto: Semáforo com Arduino
+
+Este documento detalha a montagem do circuito e o funcionamento do código para um projeto de semáforo simples, utilizando um Arduino UNO e três LEDs.
+
+## 1. Componentes Utilizados
+
+A tabela a seguir lista todos os componentes necessários para a montagem do circuito:
+
+| Componente | Quantidade | Especificação / Valor |
+| :--- | :--- | :--- |
+| Arduino UNO R3 | 1 | |
+| Protoboard | 1 |  |
+| LED Verde | 1 |  |
+| LED Amarelo | 1 |  |
+| LED Vermelho | 1 |  |
+| Resistor | 3 | 220 $\Omega$ (Vermelho, Vermelho, Marrom) |
+| Jumpers (Fios de Conexão) | 13 | Macho-Macho (7) e Macho-Fêmea (6) |
+| Cabo USB | 1 | Tipo A/B (para conexão Arduino-PC) |
+
+
+
+
+
+
+
+
+
+
 Paulo Vitor
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
