@@ -17,7 +17,30 @@ A tabela a seguir lista todos os componentes necessários para a montagem do cir
 | Jumpers (Fios de Conexão) | 13 | Macho-Macho (7) e Macho-Fêmea (6) |
 | Cabo USB | 1 | Tipo A/B (para conexão Arduino-PC) |
 
+**Passo a passo da montagem:**
 
+1.  **Terra Comum (GND):** Um fio jumper (preto, na imagem) conecta um dos pinos `GND` (Terra) do Arduino ao trilho negativo (linha azul, `-`) da protoboard. Este será o terra comum para todos os componentes.
+2.  **Posicionamento dos LEDs:** Os três LEDs (verde, amarelo e vermelho) são inseridos na protoboard, com cada perna em uma fileira diferente.
+3.  **Conexão dos Cátodos (Lado Negativo):**
+    * A perna curta (cátodo) de cada LED é conectada a uma das pernas de um resistor de 220 $\Omega$.
+    * A outra perna de cada um dos três resistores é, então, conectada ao trilho `GND` (negativo) da protoboard.
+4.  **Conexão dos Ânodos (Lado Positivo/Sinal):**
+    * A perna longa (ânodo) do **LED verde** é conectada, através de um jumper (laranja), ao pino digital `8` do Arduino.
+    * A perna longa (ânodo) do **LED amarelo** é conectada, através de um jumper (amarelo), ao pino digital `10` do Arduino.
+    * A perna longa (ânodo) do **LED vermelho** é conectada, através de um jumper (roxo), ao pino digital `12` do Arduino.
+5.  **Alimentação:** O Arduino é alimentado via cabo USB conectado ao computador.
+
+<div align="center">
+
+<sub>Figura 1 - Foto do semáforo </sub>
+
+   <img src="/semaforof.jpg">
+
+<sup>Fonte: Material produzido pelo autor (2025)</sup>
+
+</div>
+
+Link do vídeo explicando brevemente o funcionamento: https://youtube.com/shorts/fTmejCvoXOU?feature=share
 
 
 
